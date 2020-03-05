@@ -1,5 +1,5 @@
 {
-    "name": "blitz-mobile-apps/graphql-passport-auth-fileupload",
+    "name": "blitz-mobile-apps/laravel-graphql-passport-auth-fileupload",
     "type": "project",
     "description": "A full-featured, easy-to-use, well-expanded GraphQL project with Laravel Lighthouse Package, Passport Authentication, Single file and Multi files Upload Mutations",
     "keywords": ["graphql", "laravel", "lighthouse", "passport", "auth", "graphql-mutations", "fileupload" ],
